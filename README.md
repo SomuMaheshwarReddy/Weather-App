@@ -1,1 +1,2 @@
 # Weather-App
+The Weather App is a web application designed to provide users with accurate and timely weather information based on their specific location. Developed using HTML, CSS, and JavaScript, the app leverages the Open Meteo Weather API along with Axios, a promise-based HTTP client, to fetch weather data dynamically. The application offers a seamless user experience, displaying current weather conditions, 6-day temperature forecasts, and hourly weather updates for the present day.
